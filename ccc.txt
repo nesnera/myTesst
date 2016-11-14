@@ -1,2 +1,4 @@
 Ukázečka
 END
+
+test ssh
